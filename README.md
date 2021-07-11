@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my humble Github abode.
+
+Greatly appreciate you taking the time to view my profile and projects. I am a student of software development and seek to create programs that could help others and myself as well. My hope is to utilize my prior experiences in finance and government to make a better world.
+
 <!--
 **markcyen/markcyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
