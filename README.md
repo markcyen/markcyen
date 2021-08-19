@@ -5,10 +5,10 @@ Welcome to my humble Github abode.
 Grateful for you taking the time to view my profile and projects. I am a student of software development and seek to create applications that could help others and myself as well. My hope is to utilize new skils, coupled with prior experiences in finance and government, to make a better world. I enjoy learning and teaching what I have learned to others, to grow and encourage others to grow as a team and community.
 
 #### Personal Links:
-<section align="left">
+<section display="inline-block">
  <a href="https://www.linkedin.com/in/markcyen/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="file:///Users/markcyen/Downloads/mark_yen_cv_20210810%20(1).pdf"><img alt="resume" src="https://img.shields.io/badge/-Resume-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
  <a href="mailto:markcyen@yahoo.com"><img alt="YahooMail" src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" /></a>
+ <a href="file:///Users/markcyen/Downloads/mark_yen_cv_20210810%20(1).pdf"><img alt="resume" src="https://img.shields.io/badge/-Resume-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
 </section>
 
 #### Some of my project highlights are the following: 
