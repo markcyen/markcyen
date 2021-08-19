@@ -11,7 +11,7 @@ Grateful for you taking the time to view my profile and projects. I am a softwar
  <a href="file:///Users/markcyen/Downloads/mark_yen_cv_20210810%20(1).pdf"><img alt="resume" src="https://img.shields.io/badge/-Resume-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
 </section>
 
-#### Some of my project highlights are the following: 
+#### Some of my current project highlights are the following: 
  - Drink This ([GitHub](https://github.com/drink-this), [Heroku](https://drink-this-frontend.herokuapp.com/)): Group project where I worked in the backend on Ruby on Rails, consuming a Cocktails DB API, exposing endpoints to the REACT/JS framework and building and debugging python libraries (using `pycall`, `pandas`, `numpy`, and `sklearn`) for the recommenders model to make accurate cocktail recommendations to a user based on the user rating behavior compared to ratings of other similar users
     - Some pull request examples I worked on: [Refactoring Recommendation Backend Engine PR#11](https://github.com/drink-this/drink-this-backend/pull/11), [Consuming Cocktail Details API PR#14](https://github.com/drink-this/drink-this-backend/pull/14), [Consuming Cocktail Search API PR#16](https://github.com/drink-this/drink-this-backend/pull/16), [Sad Paths for Cocktail Search PR#20](https://github.com/drink-this/drink-this-backend/pull/20), [Fixed Warning on Python Coding PR#32](https://github.com/drink-this/drink-this-backend/pull/32)
  - [Sweater Weather](https://github.com/markcyen/sweater-weather): Solo project, built in Rails, consuming four APIs and exposing six endpoints, including user registration and login sessions
