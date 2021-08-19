@@ -2,7 +2,7 @@
 
 Welcome to my humble Github abode.
 
-Grateful for you taking the time to view my profile and projects. I am a student of software development and seek to create applications that could help others and myself as well. My hope is to utilize new skils, coupled with prior experiences in finance and government, to make a better world. I enjoy learning and teaching what I have learned to others, to grow and encourage others to grow as a team and community.
+Grateful for you taking the time to view my profile and projects. I am a software developer and seek to create applications that could help others and myself as well. My hope is to utilize these skills, coupled with prior experiences in finance and government, to make a better world. I enjoy learning and teaching what I have learned to others, to grow and encourage others to grow as a team and community.
 
 #### Personal Links:
 <section display="inline-block">
