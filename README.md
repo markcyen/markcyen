@@ -2,7 +2,7 @@
 
 Welcome to my humble Github abode.
 
-Grateful for you taking the time to view my profile and projects. I am a software developer and seek to create applications that could help others and myself as well. My hope is to utilize these skills, coupled with prior experiences in finance and government, to make a better world. I enjoy learning and teaching what I have learned to others, to grow and encourage others to grow as a team and community.
+Grateful for you taking the time to view my profile and projects. I am a software developer and seek to create applications that could help others and myself as well. My hope is to utilize software development skills, coupled with prior experiences in finance and goverment, to make a better world. I enjoy learning and teaching what I have learned to others, as well as grow and encourage others to be challenged as a team and community.
 
 #### Personal Links:
 <section display="inline-block">
@@ -14,7 +14,7 @@ Grateful for you taking the time to view my profile and projects. I am a softwar
 #### Some of my current project highlights are the following: 
  - Drink This ([GitHub](https://github.com/drink-this), [Heroku](https://drink-this-frontend.herokuapp.com/)): Group project where I worked in the backend on Ruby on Rails, consuming a Cocktails DB API, exposing endpoints to the REACT/JS framework and building and debugging python libraries (using `pycall`, `pandas`, `numpy`, and `sklearn`) for the recommenders model to make accurate cocktail recommendations to a user based on the user rating behavior compared to ratings of other similar users
     - Some pull request examples I worked on: [Refactoring Recommendation Backend Engine PR#11](https://github.com/drink-this/drink-this-backend/pull/11), [Consuming Cocktail Details API PR#14](https://github.com/drink-this/drink-this-backend/pull/14), [Consuming Cocktail Search API PR#16](https://github.com/drink-this/drink-this-backend/pull/16), [Sad Paths for Cocktail Search PR#20](https://github.com/drink-this/drink-this-backend/pull/20), [Fixed Warning on Python Coding PR#32](https://github.com/drink-this/drink-this-backend/pull/32)
- - [Sweater Weather](https://github.com/markcyen/sweater-weather): Solo project, built in Rails, consuming four APIs and exposing six endpoints, including user registration and login sessions
+ - [Sweater Weather](https://github.com/markcyen/sweater-weather): Solo project, built in Rails, consuming four APIs ([Mapquest Geocoding API](https://developer.mapquest.com/documentation/geocoding-api/), [Open Weather One Call API](https://openweathermap.org/api/one-call-api), [Unsplash Images](https://unsplash.com/developers), and [Open Brewery](https://www.openbrewerydb.org/))and exposing six endpoints, including user registration and login sessions
  - [Battleship](https://github.com/markcyen/Battleship): Paired project on the battleship game, developed in Ruby, played in the terminal
     - Some pull request examples I worked on: [Implementing Cell Class PR#6](https://github.com/markcyen/Battleship/pull/6), [Created Board Class PR#17](https://github.com/markcyen/Battleship/pull/17), [Created Human Player Class PR#44](https://github.com/markcyen/Battleship/pull/44)
 
