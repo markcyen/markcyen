@@ -8,7 +8,22 @@ Grateful for you taking the time to view my profile and projects. I am a softwar
 <section display="inline-block">
  <a href="https://www.linkedin.com/in/markcyen/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="mailto:markcyen@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://docs.google.com/document/d/13F4DDxhoBTXrZLcT3ZRWVTBKQalHbPaULNbmyaPTPjI/edit")><img alt="resume" src="https://img.shields.io/badge/-Resume-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+ <a href="https://docs.google.com/document/d/13F4DDxhoBTXrZLcT3ZRWVTBKQalHbPaULNbmyaPTPjI/edit"><img alt="resume" src="https://img.shields.io/badge/-Resume-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+</section>
+
+#### Current Tech Stack:
+<section display="inline-block">
+ <a><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/></a>
+ <a><img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /></a>
+ <a><img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /></a>
+ <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+</section>
+
+#### Currently Learning:
+<section display="inline-block">
+ <a><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+ <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+ <a><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>
 </section>
 
 #### Some of my current project highlights are the following: 
