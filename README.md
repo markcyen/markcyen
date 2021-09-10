@@ -6,30 +6,26 @@ Grateful for you taking the time to view my profile and projects. I am a softwar
 
 #### Personal Links:
 <section display="inline-block">
- <a href="https://www.linkedin.com/in/markcyen/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="mailto:markcyen@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://docs.google.com/document/d/13F4DDxhoBTXrZLcT3ZRWVTBKQalHbPaULNbmyaPTPjI/edit"><img alt="resume" src="https://img.shields.io/badge/-Resume-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+ <a href="https://www.linkedin.com/in/markcyen/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/></a>
+ <a href="mailto:markcyen@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
+ <a href="https://docs.google.com/document/d/13F4DDxhoBTXrZLcT3ZRWVTBKQalHbPaULNbmyaPTPjI/edit"><img alt="resume" src="https://img.shields.io/badge/-Resume-f2c236.svg?style=plastic&colorB=0078D4" /></a>
 </section>
 
 #### Current Tech Stack:
-<section display="inline-block">
- <a><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/></a>
- <a><img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /></a>
- <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
- <a><img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /></a>
- <a><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
- <a><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
- <a><img alt="Travis CI" src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" /></a>
- <a><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
- <a><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>
-</section>
+ ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=plastic&logo=ruby)
+ ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=plastic&logo=ruby-on-rails)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=plastic&logo=postgresql)
+ ![JSON](https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white)
+ ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+ ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
+ ![Travis CI](https://img.shields.io/badge/travis_CI-3EAAAF?style=plastic&logo=travisci&logoColor=white)
+ ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 
 #### Currently Learning:
-<section display="inline-block">
- <a><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
- <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
- <a><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>
-</section>
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+ ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white)
 
 #### Some of my project highlights are the following:
  - Pawty Trainer ([GitHub](https://github.com/Pawty-Trainer), [Live App](https://pawty-trainer.github.io/pawty-trainer/#/)): Group project of two frontend and three backen developers (including me) where I worked on the backend with Ruby on Rails, using GraphQL as the query language for the frontend to consume; with several endpoints to include the ability to input username, dog(s), and training event(s)
