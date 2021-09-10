@@ -2,7 +2,7 @@
 
 Welcome to my humble Github abode.
 
-Grateful for you taking the time to view my profile and projects. I am a software developer seeking to create applications that could help others and myself as well. In early 2021, I started to pick up Ruby on Rails. My hope is to hone these skills and utilize what I have learned from software development, coupled with prior experiences in finance and goverment, to make a better world. I enjoy learning to code and teaching what I have learned to others, as well as grow and encourage others to be challenged as a team and community.
+Grateful for you taking the time to view my profile and projects. I am a software developer seeking to create applications that could help others and myself as well. In early 2021, I started to pick up Ruby on Rails. My hope is to hone these skills and utilize what I have learn in software development, coupled with prior experiences in finance and goverment, to make apps that improves the world in some way. I enjoy learning to code and teaching what I have learned to others, as well as grow and encourage others to be challenged as a team and community.
 
 #### Personal Links:
 <section display="inline-block">
@@ -15,12 +15,13 @@ Grateful for you taking the time to view my profile and projects. I am a softwar
 <section display="inline-block">
  <a><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/></a>
  <a><img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /></a>
- <a><img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /></a>
  <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
  <a><img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /></a>
  <a><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
  <a><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
  <a><img alt="Travis CI" src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" /></a>
+ <a><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
+ <a><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>
 </section>
 
 #### Currently Learning:
