@@ -33,8 +33,7 @@ Grateful for you taking the time to view my profile and projects. I am a softwar
  - [Sweater Weather](https://github.com/markcyen/sweater-weather): Solo project, consuming four APIs ([Mapquest Geocoding API](https://developer.mapquest.com/documentation/geocoding-api/), [Open Weather One Call API](https://openweathermap.org/api/one-call-api), [Unsplash Images](https://unsplash.com/developers), and [Open Brewery](https://www.openbrewerydb.org/))and exposing six endpoints, including user registration and login sessions with authentication, using a JSON API serializer gem to expose endpoints
  - [Rails Engine](https://github.com/markcyen/rails-engine): Solo project in ReSTful APIs, exposing merchants, items, and aggregating revenue data for a mock e-commerce web application, with 15 endpoints and custom pagination
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markcyen&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markcyen&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markcyen&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markcyen&layout=compact&theme=tokyonight)
 
 <!-- <a href="https://github.com/markcyen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markcyen&repo=github-readme-stats" />
