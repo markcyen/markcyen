@@ -8,7 +8,7 @@ Grateful for you taking the time to visit my profile and projects. I am a softwa
 <section display="inline-block">
  <a href="https://www.linkedin.com/in/markcyen/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/></a>
  <a href="mailto:markcyen@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
- <a href="https://docs.google.com/document/d/13F4DDxhoBTXrZLcT3ZRWVTBKQalHbPaULNbmyaPTPjI/edit"><img alt="resume" src="https://img.shields.io/badge/-Resume-f2c236.svg?style=plastic&colorB=0078D4" /></a>
+ <a href="https://docs.google.com/document/d/1zh1dp-rnJKrp8jW2hQ11pDoMnp7zhs8HVx3lCa3Ut_w/edit"><img alt="resume" src="https://img.shields.io/badge/-Resume-f2c236.svg?style=plastic&colorB=0078D4" /></a>
 </section>
 
 #### Current Technologies:
