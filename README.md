@@ -23,7 +23,7 @@ Grateful for you taking the time to visit my profile and projects. I am a softwa
  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 
 #### Currently Learning:
- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
+ ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 <!--  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) -->
 
