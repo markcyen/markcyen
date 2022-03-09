@@ -13,6 +13,7 @@ Grateful for you taking the time to visit my profile and projects. I am a softwa
 #### Current Technologies:
  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=plastic&logo=ruby)
  ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=plastic&logo=ruby-on-rails)
+ ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=plastic&logo=postgresql)
  ![JSON](https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white)
  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -22,9 +23,9 @@ Grateful for you taking the time to visit my profile and projects. I am a softwa
  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 
 #### Currently Learning:
+ ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
- ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white)
+<!--  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) -->
 
 #### Some of my recent project highlights are the following:
  - Drink This ([GitHub Repo](https://github.com/drink-this), [Live App](https://drink-this-frontend.herokuapp.com/)): (10 days) Group project of six backend developers where I worked on the backend with Ruby on Rails, consuming the [CocktailDB API](https://www.thecocktaildb.com/api.php), exposing endpoints to the React/JS frontend (with Tailwind/CSS) and building and debugging python libraries (using `pycall`, `pandas`, `numpy`, and `sklearn`) for the recommenders model to make accurate cocktail recommendations to a user based on the user rating behavior compared to ratings of other similar users
