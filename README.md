@@ -2,7 +2,7 @@
 
 Welcome to my humble Github abode.
 
-Grateful for you taking the time to visit my profile and projects. I am a software developer seeking to create applications that could help others and myself as well. In early 2021, I started to pick up Ruby on Rails. My hope is to hone these skills and utilize what I have learn in software development, coupled with prior experiences in finance and goverment, to make apps that improves the world in some way. I enjoy learning to code and teaching what I have learned to others, as well as grow and encourage others to be challenged as a team and community.
+Grateful for you taking the time to visit my profile and projects. I am currently a software developer at Bitly since early 2022, focused on Golang and the backend. Before Bitly, I picked up Ruby on Rails in 2021. My hope is to hone these software skills and utilize what I have learn in software development, coupled with prior experiences in finance and goverment, to make apps that improves the world in some way. I enjoy learning to code and teaching what I have learned to others, as well as grow and encourage others to be challenged as a team and community.
 
 #### Personal Links:
 <section display="inline-block">
@@ -11,6 +11,7 @@ Grateful for you taking the time to visit my profile and projects. I am a softwa
 </section>
 
 #### Current Technologies:
+ ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=plastic&logo=ruby)
  ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=plastic&logo=ruby-on-rails)
  ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white)
@@ -23,11 +24,10 @@ Grateful for you taking the time to visit my profile and projects. I am a softwa
  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 
 #### Currently Learning:
- ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 <!--  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) -->
 
-#### Some of my recent project highlights are the following:
+#### Some of my past project highlights are the following:
  - Drink This ([GitHub Repo](https://github.com/drink-this), [Live App](https://drink-this-frontend.herokuapp.com/)): (10 days) Group project of six backend developers where I worked on the backend with Ruby on Rails, consuming the [CocktailDB API](https://www.thecocktaildb.com/api.php), exposing endpoints to the React/JS frontend (with Tailwind/CSS) and building and debugging python libraries (using `pycall`, `pandas`, `numpy`, and `sklearn`) for the recommenders model to make accurate cocktail recommendations to a user based on the user rating behavior compared to ratings of other similar users
  - Pawty Trainer ([GitHub Repo](https://github.com/Pawty-Trainer), [Live App](https://pawty-trainer.github.io/pawty-trainer/#/)): (14 days) Group project of two frontend and three backend developers where I worked on the backend with Ruby on Rails, using GraphQL as the query language for the frontend to consume; with several endpoints to include the ability to input username, dog(s), and training event(s)
  - Sweater Weather ([GitHub Repo](https://github.com/markcyen/sweater-weather)): (6 days) Solo project, consuming four APIs ([Mapquest Geocoding API](https://developer.mapquest.com/documentation/geocoding-api/), [Open Weather One Call API](https://openweathermap.org/api/one-call-api), [Unsplash Images](https://unsplash.com/developers), and [Open Brewery](https://www.openbrewerydb.org/))and exposing six endpoints, including user registration and login sessions with authentication, using a JSON API serializer gem to expose endpoints
