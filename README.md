@@ -27,13 +27,13 @@ Grateful for you taking the time to visit my profile and projects. I am looking 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 <!--  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) -->
 
-#### Some of my past project highlights are the following:
+<!--  #### Some of my past project highlights are the following:
  - Drink This ([GitHub Repo](https://github.com/drink-this), [Live App](https://drink-this-frontend.herokuapp.com/)): (10 days) Group project of six backend developers where I worked on the backend with Ruby on Rails, consuming the [CocktailDB API](https://www.thecocktaildb.com/api.php), exposing endpoints to the React/JS frontend (with Tailwind/CSS) and building and debugging python libraries (using `pycall`, `pandas`, `numpy`, and `sklearn`) for the recommenders model to make accurate cocktail recommendations to a user based on the user rating behavior compared to ratings of other similar users
  - Pawty Trainer ([GitHub Repo](https://github.com/Pawty-Trainer), [Live App](https://pawty-trainer.github.io/pawty-trainer/#/)): (14 days) Group project of two frontend and three backend developers where I worked on the backend with Ruby on Rails, using GraphQL as the query language for the frontend to consume; with several endpoints to include the ability to input username, dog(s), and training event(s)
  - Sweater Weather ([GitHub Repo](https://github.com/markcyen/sweater-weather)): (6 days) Solo project, consuming four APIs ([Mapquest Geocoding API](https://developer.mapquest.com/documentation/geocoding-api/), [Open Weather One Call API](https://openweathermap.org/api/one-call-api), [Unsplash Images](https://unsplash.com/developers), and [Open Brewery](https://www.openbrewerydb.org/))and exposing six endpoints, including user registration and login sessions with authentication, using a JSON API serializer gem to expose endpoints
- - Rails Engine ([GitHub Repo](https://github.com/markcyen/rails-engine)): (6 days) Solo project in ReSTful APIs, exposing merchants, items, and aggregating revenue data for a mock e-commerce web application, with 15 endpoints and custom pagination
+ - Rails Engine ([GitHub Repo](https://github.com/markcyen/rails-engine)): (6 days) Solo project in ReSTful APIs, exposing merchants, items, and aggregating revenue data for a mock e-commerce web application, with 15 endpoints and custom pagination -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markcyen&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markcyen&layout=compact&theme=tokyonight)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markcyen&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markcyen&layout=compact&theme=tokyonight) -->
 
 <!-- <a href="https://github.com/markcyen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markcyen&repo=github-readme-stats" />
