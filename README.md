@@ -10,7 +10,7 @@ Grateful for you taking the time to visit my profile and projects. I am looking 
  <a href="mailto:markcyen@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
 </section>
 
-#### Current Technologies:
+#### Technologies:
  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
  ![MySql](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
  ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
@@ -27,7 +27,7 @@ Grateful for you taking the time to visit my profile and projects. I am looking 
  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 
-#### Currently Learning:
+#### Continuously Learning:
  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
 
