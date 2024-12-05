@@ -12,12 +12,16 @@ Grateful for you taking the time to visit my profile and projects. I am looking 
 
 #### Current Technologies:
  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
+ ![MySql](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
+ ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=plastic&logo=ruby)
  ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=plastic&logo=ruby-on-rails)
+ ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
  ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=plastic&logo=postgresql)
  ![JSON](https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white)
  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+ ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
  ![Travis CI](https://img.shields.io/badge/travis_CI-3EAAAF?style=plastic&logo=travisci&logoColor=white)
  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -25,7 +29,7 @@ Grateful for you taking the time to visit my profile and projects. I am looking 
 
 #### Currently Learning:
  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-<!--  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) -->
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
 
 <!--  #### Some of my past project highlights are the following:
  - Drink This ([GitHub Repo](https://github.com/drink-this), [Live App](https://drink-this-frontend.herokuapp.com/)): (10 days) Group project of six backend developers where I worked on the backend with Ruby on Rails, consuming the [CocktailDB API](https://www.thecocktaildb.com/api.php), exposing endpoints to the React/JS frontend (with Tailwind/CSS) and building and debugging python libraries (using `pycall`, `pandas`, `numpy`, and `sklearn`) for the recommenders model to make accurate cocktail recommendations to a user based on the user rating behavior compared to ratings of other similar users
