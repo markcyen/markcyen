@@ -2,7 +2,7 @@
 
 Welcome to my humble Github abode.
 
-Grateful for you taking the time to visit my profile and projects. I am looking for my next role but was formerly a software developer at Bitly since early 2022, focusing on Golang and the backend. Before Bitly, I picked up Ruby on Rails in 2021. My hope is to hone these software skills and utilize what I have learn, leveraging prior experiences in finance and military, to make apps that are useful in some way. I enjoy learning to code and teaching what I have learned to others, as well as grow and encourage others to be challenged as a team and community.
+Grateful for you taking the time to visit my profile and projects. I am looking for my next role but was formerly a software developer at Bitly and Tensure Consulting, focusing on Golang and the backend. Before Bitly, I picked up Ruby on Rails in 2021. My hope is to hone these software skills and utilize what I have learn, leveraging prior experiences in finance, consulting, and the government, to make apps that are useful in some way. I enjoy learning to code and teaching what I have learned to others, as well as grow and encourage others to be challenged as a team and community.
 
 #### Personal Links:
 <section display="inline-block">
