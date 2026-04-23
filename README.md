@@ -4,7 +4,7 @@ Welcome to my humble Github abode.
 
 Grateful for you taking the time to visit my profile and projects. I am looking for my next role but was formerly a software developer at Bitly and Tensure Consulting, focusing on Golang and the backend. Before Bitly, I picked up Ruby on Rails in 2021. My hope is to hone these software skills and utilize what I have learn, leveraging prior experiences in finance, consulting, and the government, to make apps that are useful in some way. I enjoy learning to code and teaching what I have learned to others, as well as grow and encourage others to be challenged as a team and community.
 
-I'm currently building [cashwise.fyi](https://www.cashwise.fyi/) — a cash flow forecasting tool for small business owners and freelancers. Upload a CSV from any bank, and it uses AI to categorize your transactions and generate a 13-week cash flow projection (the standard treasury horizon). No accounting software, no setup. Try it out. 
+I'm currently building [cashwise.fyi](https://www.cashwise.fyi/) — a cash flow forecasting tool for small business owners and freelancers. Upload a CSV from any bank, and it uses AI to categorize your transactions and generate a 13-week cash flow projection (the standard treasury horizon), surfaces key financial signals as insight cards, and delivers a CFO-style narrative report. No accounting software, no setup. Try it out. 
 
 Built with Go, React, and the Anthropic API.
 
